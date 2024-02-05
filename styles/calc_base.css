@@ -1,7 +1,7 @@
 .calculator {
     width: 84mm;
     height: 158mm;
-    background-color: #666666;
+    background-image: linear-gradient(to bottom,#3B3B47 50%,#605E6B 100%);
 }
 .calculator * {
     padding: 10px;
