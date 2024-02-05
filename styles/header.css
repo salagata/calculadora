@@ -1,0 +1,20 @@
+@import url("./render_models.css");
+* {
+    box-sizing: border-box;
+}
+.header {
+    width: 100%;
+}
+#type {
+    font-family: "Eurostile";
+    float: left;
+}
+#model {
+    float: right;
+}
+#xtra {
+    font-family: "Wide";
+    text-align: center;
+    font-size: 12px;
+    color: #9b3c3f;
+}

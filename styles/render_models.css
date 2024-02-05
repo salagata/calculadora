@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Eurostile";
+    src: url("/fonts/eurostile_extended_black.ttf");
+}
+@font-face {
+    font-family: "Wide";
+    src: url("/fonts/wide_latin_regular.ttf");
+}
+@font-face {
+    font-family: "Cambria Math";
+    src: url("/fonts/CambriaMath-02.ttf");
+}

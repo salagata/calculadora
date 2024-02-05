@@ -1,0 +1,8 @@
+.calculator {
+    width: 84mm;
+    height: 158mm;
+    background-color: #666666;
+}
+.calculator * {
+    padding: 10px;
+}
